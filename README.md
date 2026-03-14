@@ -65,5 +65,3 @@ The `octave/` directory contains GNU Octave implementations of the vibrato and t
 - `fppv_first_order_stretch.m` — First-order time-stretching
 - `fppv_second_order_stretch.m` — Second-order time-stretching
 - `princarg.m` — Principal argument function
-
-Requires the `hanningz` function (available in the Octave signal package or from the [pv-noise-synthesis](https://github.com/TedApel/pv-noise-synthesis) repository).
