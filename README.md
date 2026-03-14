@@ -11,7 +11,7 @@ This work addresses the loss of vibrato and tremolo that occurs during phase voc
 
 The method performs a second-order spectral analysis (2DFT) on the time-varying magnitude and frequency trajectories of the first-order phase vocoder analysis. Modulation components are identified as peaks in this second-order spectrum, removed prior to time-stretching, and re-imposed on the stretched signal at their original modulation rate.
 
-This work is based on Chapter 3 of the dissertation *Feature Preservation and Negated Music in a Phase Vocoder Sound Representation* (UCSD, 2008).
+[Paper (PDF)](paper/vibratotremolo.pdf)
 
 ## Sound Examples
 
