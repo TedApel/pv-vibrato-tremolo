@@ -1,7 +1,7 @@
-# Vibrato and Tremolo Preservation during Phase Vocoder Time-Stretching
+# Vibrato and Tremolo Preservation during Phase Vocoder Time-Dilation
 
 Ted Apel
-Victoria University of Wellington
+Boise State University
 
 [Project page with sound examples](https://vud.org/projects/vibratotremolo/)
 
